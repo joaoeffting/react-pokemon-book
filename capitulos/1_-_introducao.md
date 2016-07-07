@@ -13,6 +13,6 @@ Como define __Cassio de Souza Antonio__ em seu livro intitulado de “Pró React
 Só para citar algumas empresas que utilizam o react: Netflix, Airbnb, Instagram e o próprio Facebook.
 
 ## 3. Por que?
-Uma das grandes vantagens de se utilizar o React é a performance. Diferente de outras bibliotecas que manipulam diretamente o dom - o que é um dos maiores gargalos em lentidão de sistemas web - o React não faz isso. Ele possui o que é chamado de Virtual DOM que nada mais é que um DOM que fica em memória onde de tempos em tempos ele faz um DIF (tira a diferença) entre o DOM e esse Virtual DOM e ai sim aplica as alterações. React não faz manipulação direta do DOM.
+Uma das grandes vantagens de se utilizar o React é a performance. Diferente de outras bibliotecas que manipulam diretamente o dom - o que é um dos maiores gargalos em lentidão de sistemas web - o React não faz isso. Ele possui o que é chamado de Virtual DOM que nada mais é que um DOM que fica em memória onde ele faz um DIF (tira a diferença) entre o DOM e esse Virtual DOM e ai sim aplica as alterações. React não faz manipulação direta do DOM.
 
 Além disso o ele utiliza o JSX, que nada mais é que JavaScript com XML (veremos isso logo).
