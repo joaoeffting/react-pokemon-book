@@ -33,6 +33,11 @@ npm install -g webpack
 ```
 3. Agora vamos tentar executar nosso aplicativo:
 ```
+Digite no terminal:
 npm run dev
+
+e depois acesso o browser na seguinte URL:  http://localhost:8080/
+
+Não aconteceu nada, certo? Pois é. Isso porque o repositório inicial 
 ```
 
