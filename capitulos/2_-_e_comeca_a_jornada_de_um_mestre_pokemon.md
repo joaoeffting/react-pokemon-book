@@ -36,7 +36,7 @@ npm install -g webpack
 ```
 Digite no terminal:
 npm run dev
-
+```
 e depois acesso o browser na seguinte URL:  http://localhost:8080/
 
 ### Se tudo der certo você terá uma tela parecida com essa no seu navegador:
