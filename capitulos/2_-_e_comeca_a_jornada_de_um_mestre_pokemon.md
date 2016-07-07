@@ -37,7 +37,13 @@ Digite no terminal:
 npm run dev
 
 e depois acesso o browser na seguinte URL:  http://localhost:8080/
-
-Se tudo der certo você terá uma tela parecida com essa no seu navegador:
 ```
+### Se tudo der certo você terá uma tela parecida com essa no seu navegador:
 ![](img/1.png)
+
+Mas se pararmos para ver não existe nada de React nesse nosso HTML certo? Corretíssimo. Então vamos fazer com que agora, tenha!
+
+A primeira coisa a se fazer é apagar aquele "Conseguimos!!!" que está dentro do body em public/index.html :
+
+
+![](2.png) ![](3.png)
