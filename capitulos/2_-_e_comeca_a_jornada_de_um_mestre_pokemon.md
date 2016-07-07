@@ -23,4 +23,16 @@ O webpack nada mais é que um empacotador de javascript entre outros. Ele é sim
 
 ## E a jornada começa!
 
+Primeiramente clone o [seguinte repositório](https://github.com/joaoeffting/react-initial)
+
+1. Navegue até o repositório clonado.
+2. Dentro dele digite 
+```
+npm install
+npm install -g webpack
+```
+3. Agora vamos tentar executar nosso aplicativo:
+```
+npm run dev
+```
 
