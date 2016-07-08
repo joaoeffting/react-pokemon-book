@@ -96,16 +96,16 @@ Ainda falta uma coisa! Volte para o index.html e importe esse arquivo da seguint
 <script src="/js/app.min.js"></script>
 ```
 Ué, mas nós criamos o arquivo como app.js e ali importamos como app.min.js? Veja abaixo a explicação:
-```
-É aqui que aquele webpack trabalha. Ele está configurado para procurar um arquivo chamado app.js dentro da pasta src e minificá-lo como app.min.js dentro de public/js/
-```
+
+>É aqui que aquele webpack trabalha. Ele está configurado para procurar um arquivo chamado app.js dentro da pasta src e minificá-lo como app.min.js dentro de public/js/
+
 
 Agora execute novamente o npm run dev e execute localhost:8080. A mensagem aparece lá. Mas isso ainda não é bem um componente React. Vamos melhorar.
 
 Dentro da pasta src crie uma outra pasta chamada components. Dentro de components crie o arquivo **PrimeiroComponente.js**
-```
-No React, quando criamos um componente adotamos como padrão iniciar o nome do arquivo com letra maiúscula.
-```
+
+>No React, quando criamos um componente adotamos como padrão iniciar o nome do arquivo com letra maiúscula.
+
 
 sua estrutura deve ficar assim:
 
